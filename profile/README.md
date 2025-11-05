@@ -132,6 +132,36 @@ Planning, task management, and idea repositories.
 
 ---
 
+### 📦 Folder G: Archive (15 repos)
+**Topics**: `folder-g`, `archived`, `deprecated`
+
+Archived projects and deprecated repositories preserved for reference. These repos are no longer actively maintained but kept for historical purposes.
+
+**Cell Collective Archives** (3 repos):
+- `Cell-Collective-Build-Codex` - Local research platform build
+- `cell-collective-k12-wrapper` - K12 wrapper (superseded by modelit-cell-collective-student-embed)
+- `cell-signaling-demo` - 3D visualization demo
+
+**Educational Tools Archives** (6 repos):
+- `lesson-validator` - Lesson validation tool
+- `tpt-worksheet-forge` - TPT worksheet generator
+- `ScienceSheetForge` - Science worksheet generator
+- `teacher-cert-platform` - Teacher certification platform v1
+- `teach-cert-pro` - Teacher certification platform v2
+- `ai-cli-tools` - AI CLI utilities
+
+**Platform Archives** (4 repos):
+- `Claude-Instructions` - Claude configuration repository
+- `n8n-render-deployment` - N8N deployment configurations
+- `automation-mcp-server` - Automation MCP server
+- `MPP-video` - MPP video content
+
+**Business Archives** (2 repos):
+- `alexandrias-design-gpt` - GPT integration experiments
+- `alexandria-crm` - CRM system prototype
+
+---
+
 ## 🔍 Finding Repositories
 
 ### Search by Folder
@@ -142,6 +172,7 @@ You can filter repositories by folder using GitHub's topic search:
 - [Folder D: Personal Projects](https://github.com/search?q=org%3AAlexandria-s-Design+topic%3Afolder-d)
 - [Folder E: Useful Applications](https://github.com/search?q=org%3AAlexandria-s-Design+topic%3Afolder-e)
 - [Folder F: Planning and Ideas](https://github.com/search?q=org%3AAlexandria-s-Design+topic%3Afolder-f)
+- [Folder G: Archive](https://github.com/search?q=org%3AAlexandria-s-Design+topic%3Afolder-g)
 
 ### Search by Project Type
 - [ModelIt Projects](https://github.com/search?q=org%3AAlexandria-s-Design+topic%3Amodelित)
@@ -153,13 +184,14 @@ You can filter repositories by folder using GitHub's topic search:
 
 ## 📊 Repository Statistics
 
-- **Total Repositories**: 64
+- **Total Repositories**: 79
 - **Folder A (ModelIt & Cell Collective)**: 22 repos
 - **Folder B (Alexandria's World)**: 5 repos
 - **Folder C (Alexandria's Design)**: 8 repos
 - **Folder D (Personal Projects)**: 15 repos
 - **Folder E (Useful Applications)**: 13 repos
 - **Folder F (Planning & Ideas)**: 2 repos
+- **Folder G (Archive)**: 15 repos
 
 ---
 
@@ -186,4 +218,4 @@ Our mission is to transform how schools and districts adapt to the Fourth Indust
 ---
 
 *Last Updated: November 5, 2025*
-*Organization restructure completed: 64 repositories transferred, 9 renamed, organized into 6 logical folders*
+*Organization restructure completed: 79 repositories transferred, 9 renamed, organized into 7 logical folders (including Archive)*
