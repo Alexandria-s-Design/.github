@@ -1,6 +1,6 @@
 # 📚 Alexandria's Design - Repository Organization
 
-Welcome to Alexandria's Design! This organization contains 64 repositories organized into 6 logical folders using GitHub topics.
+Welcome to Alexandria's Design! This organization contains 80 repositories organized into 8 logical folders using GitHub topics.
 
 ## 🗂️ Folder Structure
 
@@ -162,6 +162,15 @@ Archived projects and deprecated repositories preserved for reference. These rep
 
 ---
 
+### 🧬 Folder H: ModelIt Applications (1 repo)
+**Topics**: `folder-h`, `modelit-applications`
+
+Full-stack applications and platforms for ModelIt! systems biology education, including the complete Cell Collective Model-It platform source code.
+
+- `cell-collective-modelit-platform` - Complete Cell Collective Model-It platform (11 microservices: React frontend, Node.js backend, PostgreSQL databases, Redis cache, Elasticsearch, Python scientific engine, Docker containerization)
+
+---
+
 ## 🔍 Finding Repositories
 
 ### Search by Folder
@@ -173,6 +182,7 @@ You can filter repositories by folder using GitHub's topic search:
 - [Folder E: Useful Applications](https://github.com/search?q=org%3AAlexandria-s-Design+topic%3Afolder-e)
 - [Folder F: Planning and Ideas](https://github.com/search?q=org%3AAlexandria-s-Design+topic%3Afolder-f)
 - [Folder G: Archive](https://github.com/search?q=org%3AAlexandria-s-Design+topic%3Afolder-g)
+- [Folder H: ModelIt Applications](https://github.com/search?q=org%3AAlexandria-s-Design+topic%3Afolder-h)
 
 ### Search by Project Type
 - [ModelIt Projects](https://github.com/search?q=org%3AAlexandria-s-Design+topic%3Amodelित)
@@ -184,7 +194,7 @@ You can filter repositories by folder using GitHub's topic search:
 
 ## 📊 Repository Statistics
 
-- **Total Repositories**: 79
+- **Total Repositories**: 80
 - **Folder A (ModelIt & Cell Collective)**: 22 repos
 - **Folder B (Alexandria's World)**: 5 repos
 - **Folder C (Alexandria's Design)**: 8 repos
@@ -192,6 +202,7 @@ You can filter repositories by folder using GitHub's topic search:
 - **Folder E (Useful Applications)**: 13 repos
 - **Folder F (Planning & Ideas)**: 2 repos
 - **Folder G (Archive)**: 15 repos
+- **Folder H (ModelIt Applications)**: 1 repo
 
 ---
 
@@ -217,5 +228,5 @@ Our mission is to transform how schools and districts adapt to the Fourth Indust
 
 ---
 
-*Last Updated: November 5, 2025*
-*Organization restructure completed: 79 repositories transferred, 9 renamed, organized into 7 logical folders (including Archive)*
+*Last Updated: November 20, 2025*
+*Organization restructure completed: 80 repositories transferred, 9 renamed, organized into 8 logical folders (including Archive and ModelIt Applications)*
