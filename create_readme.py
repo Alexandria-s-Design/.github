@@ -1,4 +1,4 @@
-<div align="center">
+content = """<div align="center">
 
 # 🌟 Alexandria's Design
 
@@ -326,3 +326,9 @@ We welcome contributions to our open-source projects! Please see individual repo
 *Last Updated: December 18, 2025*
 
 *Organization restructure completed: 81 repositories transferred, 9 renamed, organized into 8 logical folders (including Archive and ModelIt Applications)*
+"""
+
+with open('profile/README.md', 'w', encoding='utf-8') as f:
+    f.write(content)
+
+print("README.md created successfully")
